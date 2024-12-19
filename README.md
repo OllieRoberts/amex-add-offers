@@ -8,7 +8,7 @@ This repository contains a JavaScript snippet to automate saving all **Amex Offe
 3. Adds a delay (1.5 seconds) between clicks to ensure smooth interaction.
 
 ## Usage
-1. Open the [Amex Offers](https://americanexpress.com) page in your browser.
+1. Open the [Amex Offers](https://global.americanexpress.com/offers/eligible) page in your browser.
 2. Open the developer console:
    - Right-click anywhere on the page and select **Inspect**.
    - Go to the **Console** tab.
