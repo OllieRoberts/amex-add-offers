@@ -38,8 +38,8 @@ This repository contains a JavaScript snippet to automate saving all **Amex Offe
 ```
 
 ## Disclaimer
-	•	This script is provided for educational purposes. Use it responsibly and at your own risk.
-	•	Ensure you comply with Amex’s terms of service when using this tool.
+* This script is provided for educational purposes. Use it responsibly and at your own risk.
+* Ensure you comply with Amex’s terms of service when using this tool.
 
 ## The Ironic Note
 
